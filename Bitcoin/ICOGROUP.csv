@@ -1,0 +1,209 @@
+No,Name,Generated Coin Name,Open Date (GMT),Close Date (GMT),Investment Round,Start Bonus,Accepted coin,ETH,BTC,Fiat,Other Alt,Not found yet(0),ETH Only(1),BTC Only(2),FIAT Only(3),ETH & BTC(4),ETH& OTHER(except BTC)(5),BTC & Other (except ETH)(6),SCAM(7),Check,CCY_Group,Amount,Amount_Group
+1,Nimiq,NET,6/28/2017,7/12/2017,1st ,40%,"ETH and BTC, LTC",O,O,X,O,,,,,ETH & BTC,,,,ETH & BTC,4,14.53,Large
+2,DAO.Casino,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,,,,,,,,,SCAM,7,SCAM,SCAM
+3,SkinCoin,SKIN,6/21/2017,7/21/2017,1st ,0%,ETH,O,X,X,X,,ETH Only,,,,,,,ETH Only,1,3.32,Mid
+4,Pillar,PLR,7/15/2017,7/17/2017,,0%,USD,X,X,O,X,,,,FIAT Only,,,,,FIAT Only,3,18.53,Large
+5,GIlgam,GGS,6/20/2017,7/20/2017,1st ,0%,ETH,O,X,X,X,,ETH Only,,,,,,,ETH Only,1,0.22,Small
+6,AntShares,ANT,8/8/2016,9/7/2016,2nd,20%,BTC,X,O,X,X,,,BTC Only,,,,,,BTC Only,2,3.5,Mid
+7,FIRSTBLOOD,FirstBlood App Token (1SŦ),9/9/2016,9/9/2016,1st ,70%/ 170st per ETH,ETH,O,X,X,X,,ETH Only,,,,,,,ETH Only,1,5.5,Large
+8,ICONOMI,ICN,8/25/2016,9/26/2016,1st ,15%,USD,X,X,O,X,,,,FIAT Only,,,,,FIAT Only,3,10.5,Large
+9,Blockfreight,#N/A,01/09/2016,1/10/2016,1st ,0%,Not found yet,X,X,O,X, ,,,FIAT Only,,,,,FIAT Only,3,Not found yet,Check
+10,deClOUDs,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,,,,,,,,,SCAM,7,SCAM,SCAM
+11,Lykke ,LKK,9/11/2016,10/9/2016,1st (더 있었는데 1st ICO를 조사함),0%,"BTC, ETH, and major fiat currencies",O,O,O,X,,,,,ETH & BTC,,,,ETH & BTC,4,1.15,Mid
+12,DECENT,DCT,9/11/2016,11/6/2016,1st ,50%,BTC/ETH,O,O,X,X,,,,,ETH & BTC,,,,ETH & BTC,4,4.13,Mid
+13,Golem,GNT,11/11/2016,11/11/2016,1st ,0%,ETH,O,X,X,X,,ETH Only,,,,,,,ETH Only,1,8.6,Large
+14,Komodo,KMD,10/15/2016,11/20/2016,1st ,25%,?BTC or swap BTCD,X,O,X,X,,,BTC Only,,,,,,BTC Only,2,1.98,Mid
+15,Inchain(refund),#N/A,27/10/2016,23/11/2016,,20%,Not found yet,O,O,X,X,Not found yet,,,,,,,,Not found yet,0,Not found yet,Check
+16,Arcade City,ARC,11/1/2016,11/29/2016,,125%,ETH,O,X,X,X,,ETH Only,,,,,,,ETH Only,1,0.64,Small
+17,Beyond the Void,Nexium,11/1/2016,11/30/2016,,0%,ETH,O,X,X,X,,ETH Only,,,,,,,ETH Only,1,0.33,Small
+18,Incent,INCNT,01/10/2016,30/11/2016,,40%,BTC,X,O,X,X,,,BTC Only,,,,,,BTC Only,2,1,Mid
+19,Mass Network,#N/A,#N/A,#N/A,,10%,BTC,X,O,X,X,,,BTC Only,,,,,,BTC Only,2,0.3,Small
+20,Golos,GOLOS,11/1/2016,12/4/2016,,25%,BTC,X,O,X,X,,,BTC Only,,,,,,BTC Only,2,0.45,Small
+21,ARK,ARK,11/7/2016,12/11/2016,,30%,?LSK/BTC,X,O,X,O,,,,,,,BTC & Other (except ETH),,BTC & Other (except ETH),6,1,Mid
+22,vDice,vSlice ,11/15/2016,12/15/2016,,30%,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,1.65,Mid
+23,eGaas,#N/A,#N/A,#N/A,,50%,BTC…,,O,,,,,BTC Only,,,,,,BTC Only,2,0.06,Small
+24,The Spectreproject,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,,,,,,,,,SCAM,7,SCAM,SCAM
+25,BlockCDN,BCDN,12/10/2016,12/26/2016,,35%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0.3,Small
+26,PassLfix,#N/A,#N/A,#N/A,,0%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0.05,Small
+27,Branche,#N/A,#N/A,#N/A,,15%,ETH/USD,O,,O,,,,,,,ETH& OTHER(except BTC),,,ETH& OTHER(except BTC),5,0.006,Small
+28,Wings,WINGS,11/18/2016,1/6/2017,,30%,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,2.07,Mid
+29,SwishCOin,#N/A,#N/A,#N/A,,45%,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.014,Small
+30,Chrono Bank,#N/A,#N/A,#N/A,,30%,Not found yet,,O,,,Not found yet,,,,,,,,Not found yet,0,Not found yet,Check
+31,Qtum,QTUM,3/16/2017,3/21/2017,,25%,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,15.43,Large
+32,Edgeless,EDG,2/28/2017,3/21/2017,,20%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,2.65,Mid
+33,Mainstreet Investment (refund),#N/A,#N/A,#N/A,,25%,ETH?,O,,,,,ETH Only,,,,,,,ETH Only,1,0.15,Small
+34,Matchpool,GUP,4/2/2017,4/3/2017,,30%,ETH?,O,,,,,ETH Only,,,,,,,ETH Only,1,5.63,Large
+35,COSMOS,0,4/5/2017,4/5/2017,,0%,"ETH, BTC",,,O,,,,,FIAT Only,,,,,FIAT Only,3,17,Large
+36,Blockchain Capital Fund III,#N/A,#N/A,#N/A,,0%,Not found yet,O,O,O,,,,,,,,,,Not found yet,0,Not found yet,Check
+37,iEX.ec,RLC,4/19/2017,4/19/2017,,20%,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,12.12,Large
+38,GNOSIS,GNO,4/24/2017,4/24/2017,,0%,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,12.25,Large
+39,Humaniq,HMQ,4/6/2017,4/27/2017,,25%,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,5.16,Large
+40,TaaS,TAAS,3/27/2017,4/27/2017,,25%,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,7.57,Large
+41,Back to Earth,SRC,4/26/2017,4/28/2017,,0%,BTC?,,O,,,,,BTC Only,,,,,,BTC Only,2,0.97,Small
+42,Lunyr,LUN,3/29/2017,4/28/2017,,0%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,5.32,Large
+43,Creativechain,CREA,3/15/2017,5/1/2017,,21%,BTC?(comment),,O,,,,,BTC Only,,,,,,BTC Only,2,0.35,Small
+44,Ethbits,ETB,4/15/2017,5/15/2017,,0%,ETH?,O,,,,,ETH Only,,,,,,,ETH Only,1,1.28,Mid
+45,Aragon Network,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,,,,,,,,,SCAM,7,SCAM,SCAM
+46,EncryptoTel,ETT,4/24/2017,7/1/2017,,20%,BTC?,,O,,,,,BTC Only,,,,,,BTC Only,2,4.52,Mid
+47,Storj,STORJ,5/19/2017,5/25/2017,,0%,"SJCX (coin swap), BTC and ETH",O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,29.22,Large
+48,MobileGo,MOBILEGO,4/25/2017,5/25/2017,,0%,ETH/WAVE,O,,,O,,,,,,ETH& OTHER(except BTC),,,ETH& OTHER(except BTC),5,53.07,Mega
+49,Mysterium Network,MYST,5/30/2017,5/30/2017,,0%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,14.1,Large
+50,Exscudo,EON,4/25/2017,5/31/2017,,0%,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,5.3,Large
+51,Basic Attention Token,BAT,5/31/2017,5/31/2017,,0%,TBA,,,,,Not found yet,,,,,,,,Not found yet,0,35,Large
+52,Patientory,PTOY,5/31/2017,6/3/2017,,20%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,6.52,Large
+53,ZrCoin,ZRC,5/11/2017,6/9/2017,,50%,USD,,,O,,,,,FIAT Only,,,,,FIAT Only,3,7.01,Large
+54,Æternity,#N/A,29/05/2017,10/06/2017,,7%,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,10.92,Large
+55,BitCAD,#N/A,11/05/2017,11/06/2017,,79%,BTC/ETH/others,O,O,,O,,,,,ETH & BTC,,,,ETH & BTC,4,5.8102,Large
+56,The Bancor Protocol,#N/A,12/06/2017,12/06/2017,,0%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,150,Mega
+57,Sonm,SNM,6/15/2017,7/15/2017,,0%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,42,Large
+58,Internet of Coins,HYBRID,3/21/2017,6/21/2017,,0%,USD,,,O,,,,,FIAT Only,,,,,FIAT Only,3,1.1,Mid
+59,FootballCoin,XFC,5/24/2017,6/23/2017,,0%,BTC/others,,O,,O,,,,,,,BTC & Other (except ETH),,BTC & Other (except ETH),6,2.42,Mid
+60,Civic,CVC,6/21/2017,6/22/2017,,0%,ERC-20 token,O,,,,,ETH Only,,,,,,,ETH Only,1,33,Large
+61,TenX,PAY,6/24/2017,6/24/2017,,20%,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,83.11,Mega
+62,NTRY platform,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,,,,,,,,,SCAM,7,SCAM,SCAM
+63,Wagerr,WGR,6/1/2017,6/25/2017,,0%,BTC/WAVE( ...),,O,,O,,,,,,,BTC & Other (except ETH),,BTC & Other (except ETH),6,9.92,Large
+64,Primalbase,PBT,6/26/2017,7/26/2017,,40%,,,,,,Not found yet,,,,,,,,Not found yet,0,6.82,Large
+65,SilverCoin,SVC,6/21/2017,6/27/2017,,0%,BTC,,,,,,ETH Only,,,,,,,ETH Only,1,0.21,Small
+66,BLOCKPOOL,BPL,5/1/2017,6/30/2017,,0%,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,1.75,Mid
+67,AdEx,ADX,6/30/2017,6/30/2017,,0%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,12.31,Large
+68,OmiseGO,OMG,6/22/2017,6/23/2017,,0%,"ETH, BTC and Fiat through Bitcoin Suisse",O,O,O,,,,,,ETH & BTC,,,,ETH & BTC,4,21,Large
+69,openANX,OAX,0,7/4/2017,,0%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,18.76,Large
+70,OnPlace Inc.,#N/A,05/06/2017,?05/07/2017,,0%,BTC/ETH/USD,O,O,O,,,,,,ETH & BTC,,,,ETH & BTC,4,0.06192,Small
+71,Santiment,SAN,7/4/2017,7/5/2017,,54%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,12.09,Large
+72,300,#N/A,01/07/2017,06/07/2017,,0%,Not found yet,O,,,,Not found yet,,,,,,,,Not found yet,0,Not found yet,Check
+73,Bitquence,BQX,6/28/2017,7/16/2017,,0%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,1.23,Mid
+74,Orocrypt,OROC,6/14/2017,7/14/2017,,0%,Euros/BTC/ETH,O,O,O,,,,,,ETH & BTC,,,,ETH & BTC,4,0.14,Small
+75,Tezos,XTZ,7/1/2017,7/13/2017,,20%,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,232,Mega
+76,CoinDash,CDT,7/17/2017,7/17/2017,,0%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0,Small
+77,Encrypgen,#N/A,29/06/2017,17/07/2017,,0%,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,1.2386,Mid
+78,FinShi Capital,#N/A,06/09/2017,06/10/2017,,10%,Not found yet,,,O,,,,,FIAT Only,,,,,FIAT Only,3,Not found yet,Check
+79,Tierion,TNT,7/27/2017,8/10/2017,,0%,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,25.04,Large
+80,True Flip,#N/A,28/06/2017,?29/07/2017,,30%,BTC/ETH/Lite coin,O,O,,O,,,,,ETH & BTC,,,,ETH & BTC,4,4.2964,Mid
+81,NEVERDIE,#N/A,30/06/2017,?30/07/2017,,30%,Not found yet,,,O,,,,,FIAT Only,,,,,FIAT Only,3,Not found yet,Check
+82,InsureX,IXT,7/10/2017,7/13/2017,,30%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,17.27,Large
+83,SunContract,SNC,6/30/2017,8/1/2017,,0%,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,2.41,Mid
+84,district0x Network,DNT,7/18/2017,8/1/2017,,0%,ETH/any ERC20 token.,O,,,,,ETH Only,,,,,,,ETH Only,1,13.19,Large
+85,BitClave,#N/A,15/09/2017,?08/12/2017,,0%,Not found yet,O,O,,O,,,,,,,,,Not found yet,0,Not found yet,Check
+86,ACT,#N/A,18/07/2017,01/08/2017,,0%,Not found yet,O,,,,Not found yet,,,,,,,,Not found yet,0,Not found yet,Check
+87,Starta,Starta,7/4/2017,7/4/2017,,0%,Unclear,,,,,Not found yet,,,,,,,,Not found yet,0,5,Large
+88,Dfinity(seed funding),DFN,2/11/2017,2/13/2017,,,BTC/ETH/flat(recorded in Swiss Frances),O,O,O,,,,,,ETH & BTC,,,,ETH & BTC,4,3.75,Mid
+89,Melon,MLN,2/15/2017,2/15/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,2.9,Mid
+90,Augmentors,DBT,1/31/2017,2/28/2017,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,1.09,Mid
+91,Juberr,#N/A,#N/A,#N/A,,,Not found yet,,,,,Not found yet,,,,,,,,Not found yet,0,Not found yet,Check
+92,Equibit,EQB,2/1/2017,3/31/2017,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,1.14,Mid
+93,Chain of Points,POINTS,2/26/2017,3/31/2017,,,not yet,,,,,Not found yet,,,,,,,,Not found yet,0,0.01,Small
+94,WeTrust,TRST,3/2/2017,4/12/2017,,,ETH/ BTC/ stablecoins/ Trustcoin/ etc,O,O,,O,,,,,ETH & BTC,,,,ETH & BTC,4,4.66,Mid
+95,Rchain,#N/A,#N/A,#N/A,,,Not found yet,,,,,Not found yet,,,,,,,,Not found yet,0,Not found yet,Check
+96,The Memessenger,#N/A,01/08/2017,25/04/2018,,,Not found yet,,,O,,,,,FIAT Only,,,,,FIAT Only,3,Not found yet,Check
+99,Apptrade,APPX,2/28/2017,4/30/2017,,,BTC/BTS/bitUSD/bitCNY/SBD/ETH,O,O,,O,,,,,ETH & BTC,,,,ETH & BTC,4,0.24,Small
+100,TokenCard,TKN,5/2/2017,5/2/2017,,,ETH/Fiat/ERC20 Tokens,O,,O,,,,,,,ETH& OTHER(except BTC),,,ETH& OTHER(except BTC),5,12.7,Large
+101,Quantum Resistant Ledger,#N/A,1. 5 2017,24. 5 2017,pre,,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,4,Mid
+102,Nexxus,NXX,5/8/2017,5/8/2017,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0,Small
+103,Ziber,#N/A,27/07/2017,?01/08/2017,,,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,0,Small
+104,CryptoABS,#N/A,14/07/2017,04/08/2017,,0,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0,Small
+105,KUNA,#N/A,28/07/2017,?08/08/2017,,0,BTC/ETH/Waves/Golos/GBG/BCH,O,O,,O,,,,,ETH & BTC,,,,ETH & BTC,4,0,Small
+106,Digital Developers Fund,#N/A,10/07/2017?,10/08/2017,,0,BTC/ETH/cash,O,O,O,,,,,,ETH & BTC,,,,ETH & BTC,4,1.5153145,Mid
+107,SkyWay,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,SCAM,,,,,,,,,SCAM,7,SCAM,SCAM
+108,Status Network,#N/A,17/06/2017,01/07/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,100,Mega
+109,Bancor,BNT,6/12/2017,6/12/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,153,Mega
+110,The Dao (refund),#N/A,#N/A,#N/A,,,Not found yet,O,,,,Not found yet,,,,,,,,Not found yet,0,Not found yet,Check
+111,Polybius,PLBT,5/31/2017,7/5/2017,,,USD,,,O,,,,,FIAT Only,,,,,FIAT Only,3,31.65,Large
+112,Aeternity-1,XAE,4/3/2017,4/6/2017,2 中 1,,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,22.63,Large
+113,Aragon,ANT,5/17/2017,5/17/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,24.75,Large
+114,Ethereum,ETH,7/23/2014,9/2/2014,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,18.44,Large
+115,Monaco,MCO,5/18/2017,6/18/2017,,,ETH/ERC20 tokens,O,,,,,ETH Only,,,,,,,ETH Only,1,26.7,Large
+116,Waves,WAVES,0,6/1/2016,,,BTC/ETH/ETC/USD/EURO,O,O,O,,,,,,ETH & BTC,,,,ETH & BTC,4,16,Large
+117,Cofound.it,CFI,6/4/2017,6/6/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,11.34,Large
+118,BOScoin,BOS,5/9/2017,5/10/2017,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,17.92,Large
+119,Aeternity (2nd round),#N/A,29/05/2017,10/06/2017,,,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,24.426,Large
+120,ATB Coin,#N/A,12/06/2017,31/08/2017,,,BTC/ETH/USD,O,O,O,,,,,,ETH & BTC,,,,ETH & BTC,4,20,Large
+121,Blockchain Capital,BCAP,4/10/2017,4/10/2017,,,BTC/ETH/USD,O,O,O,,,,,,ETH & BTC,,,,ETH & BTC,4,10,Large
+122,Rialto.AI,0,6/28/2017,7/3/2017,,,BTC/ETH/XRP,O,O,,O,,,,,ETH & BTC,,,,ETH & BTC,4,10,Large
+123,SingularDTV,SNGLS,10/2/2016,10/2/2016,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,7.5,Large
+124,MaidSafeCoin,MAID,4/21/2014,5/21/2014,,,BTC/ mastercoin,,O,,O,,,,,,,BTC & Other (except ETH),,BTC & Other (except ETH),6,6,Large
+125,Lisk,LSK,2/22/2016,3/21/2016,,,BTC/any other altcoin supported by?ShapeShift/XRP,,O,,O,,,,,,,BTC & Other (except ETH),,BTC & Other (except ETH),6,5.8,Large
+126,DigixGlobal,0,3/29/2016,3/29/2016,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,5.5,Large
+127,Air,XID,6/1/2017,6/29/2017,,,,,,,,Not found yet,,,,,,,,Not found yet,0,0,Small
+128,Augur,REP,8/17/2015,10/1/2015,,,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,5.14,Large
+129,DCORP,DRP,6/1/2017,6/29/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,5.05,Large
+130,Synereo-2,AMP,9/19/2016,10/17/2016,2中2,,Credit Card/Bank Transfer/BTC/a variety of Altcoins.,,O,O,O,,,,,,,BTC & Other (except ETH),,BTC & Other (except ETH),6,4.7,Mid
+131,CrypViser,0,5/20/2017,7/30/2017,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,4.02,Mid
+132,Mothership,MSP,7/7/2017,7/21/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,4.69,Mid
+133,EcoBit,ECOB,4/9/2017,6/8/2017,,,Fiat/BTC/NEM/ETH,,O,O,O,,,,,ETH & BTC,,,,ETH & BTC,4,3.49,Mid
+134,Melonport,#N/A,2/15/2017,2/16/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,2.9,Mid
+135,CryptoPing,PING,5/25/2017,6/25/2017,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,2.74,Mid
+136,SuperNET,UNITY,4/29/2014,9/22/2014,,,,,,,,Not found yet,,,,,,,,Not found yet,0,2.5,Mid
+137,iDice,ICE,6/11/2017,6/26/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,2.5,Mid
+138,Mycelium,#N/A,#N/A,5/19/2016,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,2.35,Mid
+139,Lykke (2nd round),LKK,2/8/2017,2/27/2017,,,CHF,,,O,,,,,FIAT Only,,,,,FIAT Only,3,1.97,Mid
+140,Kibo Lotto,0,9/30/2016,11/9/2016,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,1.9,Mid
+141,Counterparty,XCP,1/2/2014,2/3/2014,,,,,,,,Not found yet,,,,,,,,Not found yet,0,1.79,Mid
+142,PeerPlays-2,PEERPLAYS,2/26/2017,5/15/2017,,,BTC/BitUSD,,O,,,,,BTC Only,,,,BTC & Other (except ETH),,BTC OnlyBTC & Other (except ETH),6,1.46,Mid
+143,Legends Room,LGD,4/18/2017,5/15/2017,,,?ETH/any alt coins converted through Shapeshift,O,,,O,,,,,,ETH& OTHER(except BTC),,,ETH& OTHER(except BTC),5,1.23,Mid
+144,Rise,RISE,0,6/1/2016,,,,,,,,Not found yet,,,,,,,,Not found yet,0,1.1,Mid
+145,Adel,ADL,5/1/2017,6/1/2017,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,1.21,Mid
+146,Plutus,GBP,0,6/1/2016,,,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,1,Mid
+147,ETCWin,WIN,11/23/2016,11/23/2016,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,1.31,Mid
+148,Aira,AIR,5/25/2017,6/11/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,1.56,Mid
+149,E4ROW,E4ROW,5/2/2017,5/22/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0.86,Small
+150,Swarm fund,SWARM,7/16/2014,7/19/2014,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0.74,Small
+151,Mastercoin (Omni),#N/A,7/31/2013,8/31/2013,,,USD,,,O,,,,,FIAT Only,,,,,FIAT Only,3,0.756,Small
+152,GetGems,GEMZ,11/30/2014,1/4/2015,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.74,Small
+153,BlockPay,0,8/20/2016,9/5/2016,,,BTC/ETHBTS/SBD,,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,0.66,Small
+154,Virtual Accelerator(Hacker Golden token),0,10/19/2016,12/21/2016,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0.65,Small
+155,Neucoin,NEU,4/27/2015,4/30/2015,,,,,,,,Not found yet,,,,,,,,Not found yet,0,0.63,Small
+156,DacPlay,0,1/4/2015,2/21/2015,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.59,Small
+157,BetKing,0,11/30/2016,12/31/2016,,,BTC/ETH/LTC,O,O,,O,,,,,ETH & BTC,,,,ETH & BTC,4,0.55,Small
+158,MUSE,MUSE,6/9/2014,12/3/2014,,,,,,,,Not found yet,,,,,,,,Not found yet,0,0.54,Small
+159,Factom,FCT,3/30/2015,5/14/2015,,,USD,,,O,,,,,FIAT Only,,,,,FIAT Only,3,0.54,Small
+160,21 Million,21M,6/12/2017,6/28/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0.38,Small
+161,Spells of Genesis,0,8/3/2015,9/1/2015,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.53,Small
+162,VOISE,VSM,5/6/2017,6/6/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0.41,Small
+163,Iota,IOTA,11/24/2015,12/20/2015,,,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,0.44,Small
+164,Project Decorum,PDC,4/3/2016,5/1/2016,,,BTC/ MAID contributions,O,,,O,,,,,,,BTC & Other (except ETH),,BTC & Other (except ETH),6,0.43,Small
+165,Storjcoin X,SJCX,7/17/2014,8/17/2014,,,USD,,,O,,,,,FIAT Only,,,,,FIAT Only,3,0.42,Small
+166,Elastic,XEL,3/11/2016,8/19/2016,,,?BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.42,Small
+167,Contingency,0,1/31/2017,2/27/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0.39,Small
+168,Icoo,ICOO,5/19/2016,7/30/2016,,,BTC/BTS,,O,,,,,BTC Only,,,,,,BTC Only,2,0.37,Small
+169,Darcrus,DAR,12/21/2016,12/28/2016,2nd,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.3,Small
+170,Etheroll,DICE,2/12/2017,2/26/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0.36,small
+171,Obits,OBITS,12/1/2015,1/30/2016,,,USD/BTC/BTS,,O,O,,,,,,,,BTC & Other (except ETH),,BTC & Other (except ETH),6,0.3,Small
+172,MassNetwork,0,9/25/2016,11/30/2016,,,,,,,,Not found yet,,,,,,,,Not found yet,0,0.25,Small
+173,Tokes,TKS,12/1/2016,1/14/2017,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.25,Small
+174,CashScripter,XCS,2/28/2017,3/30/2017,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.19,Small
+175,OnPlace,OPL,6/6/2017,7/6/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0.15,Small
+176,Nodio,#N/A,11/1/2016,12/2/2016,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.1,Small
+177,DarkSilk,#N/A,9/8/2016,10/23/2016,,,USD,,,O,,,,,FIAT Only,,,,,FIAT Only,3,0.93,Small
+178,Sikoba (refund),#N/A,4/25/2017,5/15/2017,,,5 and 250 ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0.93,Small
+179,Ascendancy,#N/A,1/27/2017,3/10/2017,,,,,,,,Not found yet,,,,,,,,Not found yet,0,0.08,Small
+180,Procommerce,#N/A,1/18/2017,2/27/2017,,,USD,,,O,,,,,FIAT Only,,,,,FIAT Only,3,0.08,Small
+181,LeviarCoin,XLC,4/7/2017,7/9/2017,,,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,0.18,Small
+182,Cryptoasset.fund,#N/A,9/15/2015,10/2/2015,,,,,,,,Not found yet,,,,,,,,Not found yet,0,0.07,Small
+183,Embermine,EMB,5/5/2017,6/2/2017,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.02,Small
+184,BitcoinGo,#N/A,12/10/2016,1/5/2017,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.06,Small
+185,Safex,#N/A,11/21/2015,4/1/2016,,,Not found yet,,O,,,Not found yet,,,,,,,,Not found yet,0,Not found yet,Check
+186,eBoost,#N/A,9/15/2016,10/27/2016,,,,,,,,Not found yet,,,,,,,,Not found yet,0,0.05,Small
+187,Mysterium,#N/A,30/05/201,30/05/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,13.3,Large
+188,Mineum,#N/A,5.7.2016,5.28.2016,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.05,Small
+189,Flashcoin,#N/A,11/17/2016,12/23/2016,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.05,Small
+190,NEM,#N/A,1/19/2014,4/10/2014,,,,,,,,Not found yet,,,,,,,,Not found yet,0,0.04,Small
+191,Metal,METAL,5/26/2017,5/26/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0.03,Small
+192,Credo,#N/A,7/5/2017,7/21/2017,,,BTC/ETH,O,O,,,,,,,ETH & BTC,,,,ETH & BTC,4,0.06,Small
+193,Spectrecoin,#N/A,11/20/2016,1/8/2017,,,BTC/XSPEC,,O,,O,,,,,,,BTC & Other (except ETH),,BTC & Other (except ETH),6,0.02,Small
+194,Nxt,#N/A,9/28/2013,11/28/2013,,,21 BTC?,,O,,,,,BTC Only,,,,,,BTC Only,2,0.006,Small
+195,Mercatox,#N/A,11/20/2016,12/20/2016,,,,,,,,Not found yet,,,,,,,,Not found yet,0,0.006,Small
+196,Respectonomy,#N/A,2/6/2017,3/4/2017,,,,,,,,Not found yet,,,,,,,,Not found yet,0,0.004,Small
+197,IcoBid,#N/A,12/11/2016,1/11/2017,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.001,Small
+198,iSunMediaCoin,#N/A,6/27/2016,12/27/2016,,,BTC,,O,,,,,BTC Only,,,,,,BTC Only,2,0.00003,Small
+199,Btsr,#N/A,3/11/2016,6/15/2016,,,Not found yet,O,,,,Not found yet,,,,,,,,Not found yet,0,Not found yet,Check
+200,SuperDAO,SUP,6/13/2017,6/13/2017,,,ETH,O,,,,,ETH Only,,,,,,,ETH Only,1,0,Small
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,Aeternity-2,,29/05/2017,10/06/2017,,,,,,,,,,,,,,,,,,,
+,PeerPlays-(pre),,,,,,,,,,,,,,,,,,,,,0.6,

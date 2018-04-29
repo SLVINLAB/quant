@@ -1,0 +1,40 @@
+rm(list=ls())
+library(dplyr)
+library(tidyr)
+library(PerformanceAnalytics)
+library(quantmod)
+library(jsonlite)
+
+setwd('C:/Users/Jin/Desktop/Project')
+# gicode : 종목코드, 미정 시 전 종목 데이터 추출 
+# fr_dt ~ to_dt : 날짜 추출 기간 
+
+fn_dsf_17 = fromJSON("http://app.fnguide.com/apiex/api/dsf/dsf001?gicode=&fr_dt=20170101&to_dt=20171231")
+fn_dsf_16 = fromJSON("http://app.fnguide.com/apiex/api/dsf/dsf001?gicode=&fr_dt=20160101&to_dt=20161231")
+fn_dsf_15 = fromJSON("http://app.fnguide.com/apiex/api/dsf/dsf001?gicode=&fr_dt=20150101&to_dt=20151231")
+fn_dsf_14 = fromJSON("http://app.fnguide.com/apiex/api/dsf/dsf001?gicode=&fr_dt=20140101&to_dt=20141231")
+fn_dsf_13 = fromJSON("http://app.fnguide.com/apiex/api/dsf/dsf001?gicode=&fr_dt=20130101&to_dt=20131231")
+fn_dsf_12 = fromJSON("http://app.fnguide.com/apiex/api/dsf/dsf001?gicode=&fr_dt=20120101&to_dt=20121231")
+# fn_dsf_11 = fromJSON("http://app.fnguide.com/apiex/api/dsf/dsf001?gicode=&fr_dt=20110101&to_dt=20111231")
+# fn_dsf_10 = fromJSON("http://app.fnguide.com/apiex/api/dsf/dsf001?gicode=&fr_dt=20100101&to_dt=20101231")
+# fn_dsf_09 = fromJSON("http://app.fnguide.com/apiex/api/dsf/dsf001?gicode=&fr_dt=20090101&to_dt=20091231")
+# fn_dsf_08 = fromJSON("http://app.fnguide.com/apiex/api/dsf/dsf001?gicode=&fr_dt=20080101&to_dt=20081231")
+
+
+data17 = data.frame(fn_dsf_17[[1]])
+data16 = data.frame(fn_dsf_16[[1]])
+data15 = data.frame(fn_dsf_15[[1]])
+data14 = data.frame(fn_dsf_14[[1]])
+data13 = data.frame(fn_dsf_13[[1]])
+data12 = data.frame(fn_dsf_12[[1]])
+
+
+data_dsf = bind_rows(data17,data16,data15,data14,data13,data12)
+# write.csv(data_dsf, "dsf.csv")
+
+str(data_dsf)
+head(data_dsf)
+data_dsf_kospi = filter(data_dsf,HEXCD =='유가증권시장')
+
+
+
