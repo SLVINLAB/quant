@@ -1,0 +1,15 @@
+rm(list=ls())
+library(dplyr)
+library(tidyr)
+library(e1071)
+setwd('C:/Users/Jin/Desktop/Project/Study')
+
+head(iris,5)
+
+attach(iris)
+
+x <- subset(iris, select=-Species)
+y <- Species
+
+svm_model <- svm(Species ~ ., data=iris)
+summary(svm_model)

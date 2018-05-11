@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525418899971.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1414405856",
+    "id" : "C9094B16",
+    "lastKnownWriteTime" : 1525419377,
+    "last_content_update" : 1525419394410,
+    "path" : "C:/Users/Jin/Desktop/Project/Study/SVM.Rmd",
+    "project_path" : "Study/SVM.Rmd",
+    "properties" : {
+        "cursorPosition" : "10,43",
+        "last_setup_crc32" : "652A5428fadd6269",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

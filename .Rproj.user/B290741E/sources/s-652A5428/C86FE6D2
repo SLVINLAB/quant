@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525062958094.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C86FE6D2",
+    "lastKnownWriteTime" : 1525065975,
+    "last_content_update" : 1525065975643,
+    "path" : "C:/Users/Jin/Desktop/Project/Fnguide_api/sample_r.R",
+    "project_path" : "Fnguide_api/sample_r.R",
+    "properties" : {
+        "cursorPosition" : "34,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
